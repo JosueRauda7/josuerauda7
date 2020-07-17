@@ -1,6 +1,5 @@
-### Hi, I'm Josué Rauda! 👋👨‍💻
-
-FullStack Developer
+## Hi, I'm Josué Rauda! 👋👨‍💻 | Web Developer
+![LogotipoMarcaAlternativo](https://user-images.githubusercontent.com/30637512/87833052-8e5cd000-c844-11ea-83c0-77a6e702498a.png)
 
 ```js
 const josuerauda7 = {
@@ -9,7 +8,10 @@ const josuerauda7 = {
   learning: ["Redux", "MERN", "UI/UX Design"],
 }
 ```
-You can find me
+You can find me:
+>* Instagram: [@josuerauda7](https://instagram.com/josuerauda7)
+>* Twitter: [@JosueRauda7](https://twitter.com/josuerauda7)
+
 <!--
 **JosueRauda7/josuerauda7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
