@@ -12,6 +12,8 @@ You can find me:
 >* Instagram: [@josuerauda7](https://instagram.com/josuerauda7)
 >* Twitter: [@JosueRauda7](https://twitter.com/josuerauda7)
 
+![Josué Rauda's github stats](https://github-readme-stats.vercel.app/api?username=josuerauda7&show_icons=true&hide=["issues"])
+
 <!--
 **JosueRauda7/josuerauda7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
