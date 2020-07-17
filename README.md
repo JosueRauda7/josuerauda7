@@ -7,6 +7,7 @@
 ### You can find me:
 * Instagram: [@josuerauda7](https://instagram.com/josuerauda7)
 * Twitter: [@JosueRauda7](https://twitter.com/josuerauda7)
+* LinkedIn: [Josué Rauda](https://www.linkedin.com/in/josuerauda7)
 
 ### Stadistics in GitHub
 ![Josué Rauda's github stats](https://github-readme-stats.vercel.app/api?username=josuerauda7&show_icons=true&hide=["issues"])
