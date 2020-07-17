@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi, I'm Josué Rauda! 👋👨‍💻
 
+FullStack Developer
+
+```js
+const josuerauda7 = {
+  code: ["Javascript", "HTML", "CSS", "Python", "C#"],
+  tools: ["React", "Node", "UI Components", "Styled Components", "Redux", "MongoDB", "MySQL", "SQL"],
+  learning: ["Redux", "MERN", "UI/UX Design"],
+}
+```
+You can find me
 <!--
 **JosueRauda7/josuerauda7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
