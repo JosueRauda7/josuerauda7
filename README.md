@@ -1,6 +1,7 @@
 ## Hi, I'm Josué Rauda! 👋👨‍💻 | Web Developer
 ![LogotipoMarcaAlternativo](https://user-images.githubusercontent.com/30637512/87833052-8e5cd000-c844-11ea-83c0-77a6e702498a.png)
 
+### Details about me!
 ![code](https://user-images.githubusercontent.com/30637512/87836846-b9e4b800-c84e-11ea-8bdf-af0c40e4a224.png)
 
 You can find me:
