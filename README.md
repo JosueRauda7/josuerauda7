@@ -15,7 +15,7 @@ const josuerauda7 = {
 		"MySQL",
 		"SQL",
 	],
-	learning: ["Redux", "MERN", "UI/UX Design"],
+	learning: ["Redux", "MERN", "UI/UX Design", "Sockets", "NextJS"],
 };
 ```
 <!--
