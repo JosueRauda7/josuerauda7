@@ -10,12 +10,13 @@ const josuerauda7 = {
 		"Node",
 		"UI Components",
 		"Styled Components",
+		"Sockets",
 		"Redux",
 		"MongoDB",
 		"MySQL",
 		"SQL",
 	],
-	learning: ["Redux", "MERN", "UI/UX Design", "Sockets", "NextJS"],
+	learning: ["Redux", "MERN", "UI/UX Design", "NextJS"],
 };
 ```
 <!--
