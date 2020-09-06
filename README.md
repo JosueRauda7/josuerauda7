@@ -16,8 +16,8 @@ const josuerauda7 = {
 		"MySQL",
 		"SQL",
 	],
-	learning: ["UI/UX Design", "Svelte", "NextJS"],
-	forLearning: ["PWA", "React Native", "Electron"],
+	learning: ["UI/UX Design", "Svelte", "NextJS", "Electron"],
+	forLearning: ["PWA", "React Native"],
 };
 ```
 <!--
