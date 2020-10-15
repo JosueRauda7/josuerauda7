@@ -15,8 +15,9 @@ const josuerauda7 = {
 		"MongoDB",
 		"MySQL",
 		"SQL",
+		"Electron",
 	],
-	learning: ["UI/UX Design", "Svelte", "NextJS", "Electron"],
+	learning: ["UI/UX Design", "Svelte", "Angular", "Ionic"],
 	forLearning: ["PWA", "React Native"],
 };
 ```
