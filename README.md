@@ -1,4 +1,5 @@
 # Hi, I'm Josué Rauda! 👋👨‍💻 | Web Developer
+[Actualmente entre los 20 programadores más activos de Github ](https://commits.top/el_salvador.html)
 ![LogotipoMarcaAlternativo](https://user-images.githubusercontent.com/30637512/87833052-8e5cd000-c844-11ea-83c0-77a6e702498a.png)
 
 ## Details about me!
@@ -30,7 +31,6 @@ const josuerauda7 = {
 * LinkedIn: [Josué Rauda](https://www.linkedin.com/in/josuerauda7)
 
 ### Stadistics in GitHub
-[Actualmente entre los 20 programadores más activos de Github ](https://commits.top/el_salvador.html)
 ![Josué Rauda's github stats](https://github-readme-stats.vercel.app/api?username=josuerauda7&show_icons=true&hide=["issues"])
 
 <!--
