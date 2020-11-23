@@ -30,7 +30,7 @@ const josuerauda7 = {
 * LinkedIn: [Josué Rauda](https://www.linkedin.com/in/josuerauda7)
 
 ### Stadistics in GitHub
-![Actualmente entre los 20 programadores más activos de Github ](https://commits.top/el_salvador.html)
+[Actualmente entre los 20 programadores más activos de Github ](https://commits.top/el_salvador.html)
 ![Josué Rauda's github stats](https://github-readme-stats.vercel.app/api?username=josuerauda7&show_icons=true&hide=["issues"])
 
 <!--
