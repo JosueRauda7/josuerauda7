@@ -6,7 +6,7 @@
 ## Details about me!
 ```js
 const josuerauda7 = {
-	code: ["Javascript", "HTML", "CSS", "Python", "C#"],
+	code: ["Javascript", "HTML", "CSS", "Python", "C#", "PHP"],
 	tools: [
 		"React",
 		"Node",
@@ -20,8 +20,8 @@ const josuerauda7 = {
 		"Electron",
 		"Angular"
 	],
-	learning: ["UI/UX Design", "React Native"],
-	forLearning: ["PWA", "Svelte", "Ionic"],
+	learning: ["UI/UX Design", "React Native", "PWA"],
+	forLearning: ["Svelte", "Ionic"],
 };
 ```
 <!--
