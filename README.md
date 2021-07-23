@@ -7,7 +7,7 @@
 ```js
 const josuerauda7 = {
 	code: ["Javascript", "HTML", "CSS", "Python", "C#", "PHP"],
-	ui-ux-design: ["Adobe XD", "Figma", "Illustrator"],
+	design: ["Adobe XD", "Figma", "Illustrator"],
 	tools: [
 		"React",
 		"PWA",
@@ -20,7 +20,6 @@ const josuerauda7 = {
 		"MySQL",
 		"SQL",
 		"Electron",
-		"Angular"
 	],
 	learning: ["React Native"],
 	forLearning: ["Svelte", "Ionic"],
