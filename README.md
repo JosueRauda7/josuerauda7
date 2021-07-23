@@ -7,7 +7,7 @@
 ```js
 const josuerauda7 = {
 	code: ["Javascript", "HTML", "CSS", "Python", "C#", "PHP"],
-	"UI/UX Design": ["Adobe XD", "Figma", "Illustrator"],
+	ui-ux-design: ["Adobe XD", "Figma", "Illustrator"],
 	tools: [
 		"React",
 		"PWA",
