@@ -7,8 +7,10 @@
 ```js
 const josuerauda7 = {
 	code: ["Javascript", "HTML", "CSS", "Python", "C#", "PHP"],
+	"UI/UX Design": ["Adobe XD", "Figma", "Illustrator"],
 	tools: [
 		"React",
+		"PWA",
 		"Node",
 		"UI Components",
 		"Styled Components",
@@ -20,7 +22,7 @@ const josuerauda7 = {
 		"Electron",
 		"Angular"
 	],
-	learning: ["UI/UX Design", "React Native", "PWA"],
+	learning: ["React Native"],
 	forLearning: ["Svelte", "Ionic"],
 };
 ```
