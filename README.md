@@ -1,5 +1,4 @@
 # Hi, I'm Josué Rauda! 👋👨‍💻 | Web Developer
-[Actualmente entre los programadores más activos de Github de El Salvador ](https://commits.top/el_salvador.html)
 
 ![LogotipoMarcaAlternativo](https://user-images.githubusercontent.com/30637512/87833052-8e5cd000-c844-11ea-83c0-77a6e702498a.png)
 
