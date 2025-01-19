@@ -5,23 +5,25 @@
 ## Details about me!
 ```js
 const josuerauda7 = {
-	code: ["Javascript", "HTML", "CSS", "Python", "C#", "PHP"],
-	design: ["Adobe XD", "Figma", "Illustrator"],
+	code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "C#", "PHP"],
+	design: ["Adobe XD", "Figma", "Illustrator", "Premiere Pro", "Photoshop"],
 	tools: [
 		"React",
-		"PWA",
+		"React Native",
 		"Node",
-		"UI Components",
-		"Styled Components",
-		"Sockets",
-		"Redux",
-		"MongoDB",
-		"MySQL",
-		"SQL",
+		"NestJS",
+		"Docker",
 		"Electron",
+		"PostgreSQL",
+		"MySQL",
+		"SQL Server",
+		"MongoDB",
+		"Sockets",
+		"PWA",
+		"Redux",
 	],
-	learning: ["React Native"],
-	forLearning: ["Svelte", "Ionic"],
+	learning: ["C# for APIs"],
+	forLearning: ["NextJS"],
 };
 ```
 <!--
